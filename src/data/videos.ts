@@ -17,7 +17,7 @@ export const videoPrompts: VideoPrompt[] = [
     id: "v1_neutral",
     category: "neutral",
     title: "Everyday Scene",
-    videoId: "aqz-KE-bpKQ", // Placeholder neutral
+    videoId: "NSAOrGb9orM",
   },
   {
     id: "v2_joy",
